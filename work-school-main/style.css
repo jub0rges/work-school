@@ -32,6 +32,17 @@ header{
     align-items: center;
 }
 
+.title-tds {
+    color: #F285C1;
+   text-align: center;
+
+}
+
+.text {
+    text-align: justify;
+    margin-left:300px;
+    margin-right: 300px;
+}
 
 li{
     display: inline-block;
